@@ -18,11 +18,10 @@ O que entregamos neste site?
 
 ## 🚀 Instruções para execução
 
-1. Copiar a pasta `wordpress` para a directoria `www` do Wamp
-2. Importar o ficheiro `base_dados.sql` no **phpMyAdmin**
-   - Criar uma nova base de dados
-   - Aceder ao separador "Importar" e carregar o ficheiro `.sql`
-3. Aceder a `http://localhost/wordpress` no navegador
+Copiar a pasta `wordpress` para a directoria `www` do WAMP  
+Aceder ao `phpMyAdmin` e criar uma nova base de dados  
+Ir ao separador **"Importar"** e carregar o ficheiro `127_0_0_1.sql`  
+Aceder a (http://localhost/wordpress) no navegador
 
 ---
 
